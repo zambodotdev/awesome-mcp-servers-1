@@ -552,7 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
-- **[Zambo MCP](https://github.com/zambodotdev/zambo-mcp)** - 100+ remote tools with zero auth: strategy, code audit, lead gen, onchain scoring, credit discovery, prompt defense. Paste `{"mcpServers":{"zambo":{"url":"https://zambo.dev/api/mcp"}}}` into your MCP client (Claude, Cursor, Windsurf, Cline) — no API key, no signup. Free 20 calls/tool/day.
+- **[Zambo MCP](https://github.com/zambodotdev/zambo-mcp)** - 100+ native MCP tools over a single zero-auth remote endpoint: strategy, code audit, lead generation, onchain scoring, credit discovery, prompt defense. One JSON line connects Claude, Cursor, Windsurf, or Cline — no API key, no signup. Free 20 calls/tool/day.
 
 ## Clients
 
