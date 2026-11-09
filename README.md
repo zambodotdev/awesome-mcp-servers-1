@@ -552,6 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[Zambo](https://github.com/zambodotdev/zambo-mcp)** - Remote MCP server with 153 tools behind one endpoint: research, live data, media, and payments. Agents can pay per use over x402, and every call returns a verifiable AER-1 receipt that a third party can re-check for free.
 
 ## Clients
 
